@@ -2,7 +2,7 @@
 
 This repository contains a Python script that uses the MoveNet Thunder model from TensorFlow Hub to track and analyze dual bicep curls in real-time via webcam. The script detects keypoints, calculates joint angles, evaluates exercise form, counts repetitions, and provides visual feedback through an OpenCV interface.
 
-![Bicep Curl Tracker Screenshot](images/bicep_tracker_screenshot.png)
+![Bicep Curl Tracker Screenshot](biceb.jpg)
 
 ## Table of Contents
 
